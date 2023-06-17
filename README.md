@@ -32,11 +32,10 @@ The data for finding space radon concentration is collected in an excel file whe
 - 𝝀 - Radon decay constant (𝝀=𝟎.𝟐𝟏"x " 〖𝟏𝟎〗^(−𝟓) 𝒔^(−𝟏))
 
 ## Files 
-- `Pso.py` : Operating cost for the usage of energy resources for each day is computed using PSO
-- `bat.py`: Operating cost for the usage of energy resources for each day is computed using bat algorithm
-- `Cost_Calculation.ipnb` :The estimated operating cost, power load and the day profile costs per unit of distributed generators (PV and WT) without MT
-- `PLOT_codes.ipnb`: Contains various plots for comparing the results in the presence or absence of certain energy resources
-- `MG_Hourly_data.csv`: Data from micro grid components collected every hour during the day
+
+- `2017 data model building.ipnb` : Prediction of radon exhalation from the surface of the earth using Machine Learning Models
+- `2017earthquake.xlsx`: Training data
+- `SET 1 data`: Testing data
 
 ## Algorithm Used
 - Levenberg Marquardt
